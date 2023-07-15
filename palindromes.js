@@ -1,4 +1,4 @@
-// Return all the palindromes in an array
+// Return all the palindromes in an array.
 
 const array = ["level", "hello", "racecar", "world", "madam", "343"];
 
